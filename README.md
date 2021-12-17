@@ -1,1 +1,2 @@
 # MyFirstRepository
+Просто изучаю Git:)
